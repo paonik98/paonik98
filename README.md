@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mario. Software engineer. Hi. 👋
 
 <!--
 **paonik98/paonik98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
